@@ -5,7 +5,7 @@ Description: In this project, I build a page where the eyeballs will fall the mo
 
 To access the repo: click https://github.com/nicolenanwu/nicolenanwueye.github.io
 
-To access the html click
+To access the html click https://nicolenanwu.github.io/nicolenanwueye.github.io/eye.html
 
 How to interact:
 Just move your mouse around the page, and observe how the eyeballs move with it.
