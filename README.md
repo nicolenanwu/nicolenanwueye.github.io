@@ -1,6 +1,4 @@
-# nicolenanwueye.github.io
-
-Eye Movement Project
+# Project Eye Movement Project
 Description: In this project, I build a page where the eyeballs will fall the movement of your mouse
 
 To access the repo: click https://github.com/nicolenanwu/nicolenanwueye.github.io
